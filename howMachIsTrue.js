@@ -9,6 +9,6 @@ const countNumber = (array) => {
   return count;
 };
 
-let numbetOfTrue = countNumber([true, false, false, true, false]);
+countNumber([true, false, false, true, false]);
 
 console.log(numbetOfTrue);
