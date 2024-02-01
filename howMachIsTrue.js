@@ -11,4 +11,5 @@ const countNumber = (array) => {
 
 countNumber([true, false, false, true, false]);
 
-console.log(numbetOfTrue);
+// consaole result
+console.log(countNumber);
