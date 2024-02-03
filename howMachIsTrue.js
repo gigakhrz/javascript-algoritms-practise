@@ -11,5 +11,4 @@ const countNumber = (array) => {
 
 countNumber([true, false, false, true, false]);
 
-// consaole result
 console.log(countNumber);
