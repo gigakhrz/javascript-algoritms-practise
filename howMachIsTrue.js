@@ -11,4 +11,5 @@ const countNumber = (array) => {
 
 countNumber([true, false, false, true, false]);
 
+// jusf for commit
 console.log(countNumber);
