@@ -9,6 +9,8 @@ const combinations = (...groups) => {
   return totalCombinations;
 };
 
+// keep coding
+
 /* 
 examples
 combinations(2, 3) ➞ 6
